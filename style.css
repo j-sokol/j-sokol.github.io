@@ -1,0 +1,16 @@
+@font-face {
+    font-family:"Urania Czech";
+    src: url("urania_cz.ttf") 
+}
+
+h3 {
+    font-family:'Urania Czech', sans-serif;
+    font-size: 26px;
+    font-weight:normal;
+    text-align: left;
+    line-height: 100%;
+    border-bottom: 1px solid #484848;
+    padding-bottom: 5px;
+    margin-bottom:7px;
+}
+
