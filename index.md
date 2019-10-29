@@ -4,8 +4,8 @@ As foreign students, plastic and packaging waste is one of the issues we realise
 
 ## When
 
-1. Shuixian Gong Market; 9 October 2019 12:00-15:30
-2. Fukurou, a package-free store; 22 October 2019, 17:00-19:30
+- 9 October 2019 12:00-15:30 - Shuixian Gong Market
+- 22 October 2019, 17:00-19:30 - Fukurou, the first package-free store in Tainan
 
 ## How did we get there
 
