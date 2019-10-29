@@ -51,7 +51,7 @@ We thought of one place - Shuixian Gong Market, the food market with the longest
 
 
 
-![](files/6.png)
+![](files/6.jpg)
 
 
 # Fukurou, a package-free store visit
@@ -61,12 +61,12 @@ We thought of one place - Shuixian Gong Market, the food market with the longest
 
 Taiwanese or Tainanese street are usually really clean. We can’t see there many litters or waste despite the fact of frequent take-aways and lack of trash bins. But sometimes we can come across these streets that are full of waste. 
 
-![](files/8.png)
+![](files/8.jpg)
 
 
 This is for us - foreign, exchange students - really confusing and we assume that if the cleanness of the streets were not taken care of by as many people as we see, most streets would look similar. This should be a warning for all of us.
 
-![](files/9.png)
+![](files/9.jpg)
 
 
 Shopkeeper's name: Lin Pei-jun
