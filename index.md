@@ -46,7 +46,7 @@ In our first visit, we observed how plastic and packaging waste is made in one o
 
 - locals and shopkeepers
 
-# First visit
+# First Visit: Shuixian Gong Market
 
 ![](files/first.png)
 
@@ -55,7 +55,7 @@ Plastic and packaging waste is expectedly serious in the restaurants and stores 
 ![](files/2.jpg)
 
 
-We thought of one place - Shuixian Gong Market, the food market with the longest history of 300+ years in Tainan. Some people already hinted us that mostly elderlies go there to shop, so it looks like a perfect place to explore local problems and talk about them with the locals. We expect to investigate the core issues of food wasting and all trash creation in Tainan and find some nifty improvements that could be implemented.
+As Shuixian Gong Market is the food market with the longest history of 300+ years in Tainan, some people already hinted us that mostly elderlies go there to shop. However, it looks like a perfect place to us to explore local problems and discuss with the locals. We tried to investigate the core issues of food wasting and all trash creation in Tainan and gain inspirations of nifty improvements that could be implemented.
 
 ![](files/3.jpg)
 
@@ -64,7 +64,7 @@ We thought of one place - Shuixian Gong Market, the food market with the longest
 ![](files/6.jpg)
 
 
-# Fukurou, a package-free store visit
+# Second Visit: Fukurou
 
 ![](files/pack.png)
 
