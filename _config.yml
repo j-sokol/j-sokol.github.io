@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
+title: Creative Waste
+description: Creative whatever project
+
 defaults:
   -
     scope:
