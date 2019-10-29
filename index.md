@@ -36,6 +36,11 @@ In our first visit, we observed how plastic and packaging waste is made in one o
 
 # Fukurou, a package-free store visit
 
+Taiwanese or Tainanese street are usually really clean. We can’t see there many litters or waste despite the fact of frequent take-aways and lack of trash bins. But sometimes we can come across these streets that are full of waste. 
+
+This is for us - foreign, exchange students - really confusing and we assume that if the cleanness of the streets were not taken care of by as many people as we see, most streets would look similar. This should be a warning for all of us.
+
+
 Shopkeeper's name: Lin Pei-jun
 
 
