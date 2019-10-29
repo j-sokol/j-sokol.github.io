@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Creative Waste
 
-You can use the [editor on GitHub](https://github.com/j-sokol/creative-whatever/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As foreign students, plastic and packaging waste is one of the issues we realised when we look around Tainan. We see restaurants and sellers giving us plastic whenever we want it, even though it is unnecessary. We always get plastic cups when we drink, one-use chopsticks when we eat, and a new sheet of paper every time when we make our order. This is a serious problem that we encounter every day.
 
 ### Markdown
 
