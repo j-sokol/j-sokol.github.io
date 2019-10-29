@@ -4,13 +4,13 @@ As foreign students, plastic and packaging waste is one of the issues we realise
 
 ## When and Where
 
-- First Visit
+- *First Visit* - 
 For our first visit, we wanted to observehow plastic and packaging waste is made.
 Therefore, at noon on 9 October 2019, we went to Shuixian Gong Market, one of the most famous market in Tainan.
 
 
 
-- Second Visit
+- *Second Visit* - 
 For our second visit, we wanted to see how the locals reduce the waste.
 Therefore, we picked Fukurou, the first package-free store in the southern part of Taiwan, as the destination. We went there at 17:00-19:30 on 22 October 2019.
 

@@ -1,6 +1,11 @@
 theme: jekyll-theme-minimal
 title: Creative Waste
-description: Creative whatever project
+description: >
+  Creative Cultural Experience project
+  Jan Sokol
+  Jakub Kubat
+  Audrey Combe
+  Tiffany Leung
 logo: files/logo.jpg
 
 defaults:
