@@ -50,7 +50,7 @@ In our first visit, we observed how plastic and packaging waste is made in one o
 
 ![](files/first.png)
 
-Plastic and packaging waste is one of the issues we realised when we look around Tainan. We see restaurants and sellers giving us plastic whenever we want it, even though it is unnecessary. We always get plastic cups when we drink, one-use chopsticks when we eat, and a new sheet of paper every time when we make our order.
+Plastic and packaging waste is expectedly serious in the restaurants and stores in Shuixian Gong Market. Plastic cups and paper boxes are provided to the customers, even when they are dining in. For takeaways, plastic bags are also provided to separate each kind of food.
 
 ![](files/2.jpg)
 
